@@ -1,0 +1,10 @@
+TypeScript
+Caracteristicas importantes y en que se diferencia de JavaScript
+    o   Tipado estatico; permite definr tipos de variables, parametros
+      y funciones.
+    o   Interfaces; facilitan la definicion de estructura de datos.
+    o   Clases y modulos; mejoran la organizacion del codigo
+    o Decoradores; permite agregar metadatos y modificar el comportamineto de clases y funciones
+TypeScript es un superconjunto de JavaScript que agrega tipado. Ademas de que TypeScript es ideal para 
+proyectos grandes y complejos, mientras que JavaScript es mas flexible adecuado para proyectos pequeños. 
+Verrifica erroes antes de ser ejecutado.

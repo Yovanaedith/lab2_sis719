@@ -1,0 +1,13 @@
+console.log(`The sum of values ( ${numberA}, ${numberB} is ${result}`);
+
+Comillas invertidas: Se usan para crear templates Strings,
+que permiten incluir expresiones dentro de cadenas de texto.
+Esto se hace utilizando la sintaxis ${expresion},
+a diferencia de las comillas simples y dobles, los
+template strings permiten:
+  o Multilinea (cadena de varias lineas)
+  o Interpolacion de variables y expresiones dentro de una cadena.
+  o Evaluacion de expresiones; puedes insertar expresiones 
+    complejas no solo variables.
+  o 
+
